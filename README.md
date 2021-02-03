@@ -1,5 +1,3 @@
-# Async Demo
-
 ## Async Demo : 
 * How Async code behave on Sync 
 * How to work with callback 
