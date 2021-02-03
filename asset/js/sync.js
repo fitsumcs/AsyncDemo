@@ -16,6 +16,7 @@ console.log("Start of Program !!!");
 
 let user = login("user 1", "password");
 
-console.log(user); //what will be the result ??
+//what will be the result ??
+console.log(user);
 
 console.log("End of Program !!!");
