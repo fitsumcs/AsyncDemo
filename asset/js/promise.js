@@ -26,7 +26,7 @@ let userWorks = function(username) {
 }
 
 //Single  Work Detail  
-let workDetail = function(work, callback) {
+let workDetail = function(work) {
 
     return new Promise((resolve, reject) => {
         setTimeout(() => {
